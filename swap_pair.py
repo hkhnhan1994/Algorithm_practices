@@ -10,6 +10,6 @@ class Solution:
             self.swapPairs(head+2)
 
 
-r=[1,2,3,4]
+r=[1,2,3,4,5,6]
 x=Solution(r)
 print(x.execute)
